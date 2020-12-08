@@ -23,7 +23,7 @@
 
 <br>
 
-<img align="left" alt="pedro-cella's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pedro-cella&show_icons=true&hide_border=false" />
+<img align="left" alt="pedro-cella's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pedro-cella&show_icons=true&hide_border=false&layout=compact" />
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-cella&l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
