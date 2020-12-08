@@ -2,7 +2,7 @@
 
 #### *Graduating student in Software Engineer at [University of Brasília](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia)*
 ### A little about me
-- 🇧🇷 &nbsp; I was born and raised in Brasília
+- 🇧🇷 &nbsp; I was born and raised in Brasília, Brazil
 - 💻 &nbsp; I`m currently learning JavaScript, HTML5 and CSS3
 - 🌟 &nbsp; My current goal: learn through great experiences
 - 🗨 &nbsp; I speak fluent Portuguese (mother tongue) and intermediate English
