@@ -1,9 +1,6 @@
 ### Hello, I`m Pedro Vítor
 
 #### *Graduating student in Software Engineer at [University of Brasília](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia)*
-
-<br>
-
 ### A little about me
 - 🇧🇷 &nbsp; I was born and raised in Brasília
 - 💻 &nbsp; I`m currently learning JavaScript, HTML5 and CSS3
