@@ -29,7 +29,7 @@
 |<img align="left" alt="pedro-cella's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pedro-cella&show_icons=true&hide_border=true&layout=compact" />|<img align="left" alt="pedro-cella's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-cella&l&layout=compact&hide_border=true" />|
 |:--|:--:|
 
-![Snake animation](https://github.com/pedro-cella/pedro-cella/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedro-cella/pedro-cella/blob/output/github-contribution-grid-snake.svg)
 
 
 
