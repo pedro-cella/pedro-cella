@@ -3,7 +3,7 @@
 #### *Graduating student in Software Engineer at [University of Brasília](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia)*
 ### A little about me
 - 🇧🇷 &nbsp; I was born and raised in Brasília, Brazil
-- 💻 &nbsp; I`m currently learning JavaScript, HTML5 and CSS3
+- 💻 &nbsp; I`m currently learning Python
 - 🌟 &nbsp; My current goal: learn through great experiences
 - 🗨 &nbsp; I speak fluent Portuguese (mother tongue) and intermediate English
 - 🎈 &nbsp; **Fun Fact:** I love animes, mangas and video games
@@ -26,6 +26,7 @@
   <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br>
 
