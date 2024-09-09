@@ -3,7 +3,7 @@
 #### *Graduating student in Software Engineer at [University of Brasília](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia)*
 ### A little about me
 - 🇧🇷 &nbsp; I was born and raised in Brasília, Brazil
-- 💻 &nbsp; I`m currently learning Python
+- 💻 &nbsp; I`m currently aiming to become a Data Analyst
 - 🌟 &nbsp; My current goal: learn through great experiences
 - 🗨 &nbsp; I speak fluent Portuguese (mother tongue) and intermediate English
 - 🎈 &nbsp; **Fun Fact:** I love animes, mangas and video games
